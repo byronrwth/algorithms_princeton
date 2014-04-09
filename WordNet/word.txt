@@ -1,0 +1,8 @@
+35532,discussion give-and-take word,an exchange of views on some topic; "we had a good discussion"; "we had a word or two about it"
+56587,news intelligence tidings word,new information about specific and timely events; "they awaited news of the outcome"
+59267,parole word word_of_honor,a promise; "he gave his word"
+59465,password watchword word parole countersign,a secret word or phrase known only to a restricted group; "he forgot the password"
+81575,word,a word is a string of bits stored in computer memory; "large computers use words up to 64 bits long"
+81576,word,a verbal command for action; "when I give the word  charge!"
+81577,word,a brief statement; "he didn't say a word about it"
+81578,word,a unit of language that native speakers can identify; "words are the blocks from which sentences are made"; "he hardly said ten words all morning"
